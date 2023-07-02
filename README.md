@@ -20,3 +20,5 @@ The game will begin by displaying the rules and the various prize tiers. It will
 If the player answers a question correctly, they will advance to the next prize tier. If they answer a question incorrectly, they will lose the game and their current prize money. The game ends when the player either answers all the questions correctly and wins the top prize, or loses the game by answering a question incorrectly.
 
 Good luck and have fun playing Kaun Banega Crorepati!
+
+Made with :heavy_heart_exclamation: by Soubhik
